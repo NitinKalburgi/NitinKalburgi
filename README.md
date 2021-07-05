@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NitinKalburgi
-- 👀 I’m interested in Data science and Buisness analytics.
+- 👀 I’m interested in Python programming wuth DSA.
 - 🌱 I’m currently learning Engineering in major of Electronics and communication.
 - 💞️ I’m looking to collaborate on Linkedln
 - You can reach me through nitinkalburgi0@gmail.com
