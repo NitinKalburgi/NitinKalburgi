@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NitinKalburgi
-- 👀 I’m interested in Python programming and DSA.
-- 🌱 I’m currently learning Engineering in major of Electronics and communication.
+- 👀 I’m interested in Python programming and Cloud computing.
+- 🌱 I’m an AWS Developer..
 - 💞️ I’m looking to collaborate on Linkedln
 - You can reach me through nitinkalburgi0@gmail.com
 - Happy coding!
